@@ -4,7 +4,7 @@
     This project is part of the Data Analyst Nanodegree Program at Udacity.
 
     I chose a Red Wine Quality dataset to explore. In the project, I investigate relationships between variables and make plots using R.
-    The Rmd file contains the code, the Html file contains the whole report, and the png files contain the plots.
+    The Rmd file contains the code, and the md file contains the whole report.
 
     Summary
     • Developed exploratory data analysis in R examining descriptive statistics as well as histograms 
